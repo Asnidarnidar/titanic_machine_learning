@@ -12,3 +12,5 @@ dataset yang digunakan :https://www.kaggle.com/competitions/titanic/data
 **Tujuan**
 1. Mengidentifikasi faktor-faktor yang mempengaruhi tingkat kemungkinan selamat?
 2. Megetahui karakteristik penumpang yang selamat dibandingkan yang tidak selamat?
+
+Link drive PPT : https://docs.google.com/presentation/d/13NIy4HoamOfVtH7vBbca-08f-jRvoPqT/edit?usp=sharing&ouid=107458455295793548629&rtpof=true&sd=true
